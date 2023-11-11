@@ -4,7 +4,7 @@
 
 int main() {
 
-    // ���ǲ��e e 
+    //加油 奥里给 
     int sum = PI + 10;
 
     printf("Hello World\n");
